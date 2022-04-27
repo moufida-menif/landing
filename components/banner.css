@@ -1,0 +1,15 @@
+.banner{
+	background-image:linear-gradient(-255deg,rgba(0, 0, 0, 0.2) 0%,rgba(0,0,0,0.4) 50%), url(../../images/im.webp);
+	color: white;
+	padding: 100px 0px;
+	background-size: cover;
+	background-position: center;
+
+}
+.banner h1{
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+
+}
